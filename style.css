@@ -35,3 +35,12 @@ h2 {
     font-weight: bold;
     color: #fff;
 }
+
+#price {
+    color: #0000ff;
+    font-weight: bold;
+}
+
+h3, p {
+    text-align: left;
+}
