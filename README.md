@@ -13,4 +13,5 @@ To successfully complete the project, you’ll require the following images:
 4. https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*6lt8ew*_ga*NTM0NzE2Nzg1NS4xNzAxMjk5NjA1*_ga_3LRZM6TM9L*MTcwNTY1OTY1Mi42OC4xLjE3MDU2NTk2NTYuNTYuMC4w
 
 The rest of the page’s styling (font sizes, colors, etc.) is outlined in the following design spec, which is a standard document you’d expect to receive as a freelance web developer:
+
 Spec - https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg?_gl=1*6lt8ew*_ga*NTM0NzE2Nzg1NS4xNzAxMjk5NjA1*_ga_3LRZM6TM9L*MTcwNTY1OTY1Mi42OC4xLjE3MDU2NTk2NTYuNTYuMC4w
